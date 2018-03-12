@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FtpDownLoad.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FtpImg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://ftp.intel.com/Pub/ietf/ippm/Imeter-1.3.tar.gz</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
